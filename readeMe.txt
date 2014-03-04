@@ -2,3 +2,4 @@ This simple program now get a new branch.
 you know this is another test.
 add a GPL
 create a branch is quick.
+Create a new branch is quick AND simple.
